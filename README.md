@@ -35,3 +35,11 @@ I am Prathamz, a passionate software engineer, open source enthusiast and studyi
 
 </td>
 </tr></table>
+
+```
+""The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence - Tesla""
+```
+
+***:beers: onto having a good time!***
+
+---
