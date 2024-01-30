@@ -64,7 +64,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 <details>
  <summary><h3>👨‍💻 Prathamz Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2024 due to the measure I'm putting in place now until the end of this time. Don't wait up, because I'm coming.
+   Apna kaam kar lawde...!
 
 [website]: https://github.com/tagging-danger/
 [youtube]: https://youtube.com/tagging_danger/
