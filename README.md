@@ -2,20 +2,18 @@
 ### ⁍ Domain Expansion: prathamz Profile
 
 ```
-File  Edit  Action   View  Help
+File  Edit  Action  View  Help
 
 ┌──(sukuna㉿GitHub)-[~]
 └─$ cat about-me
 
 ⁍ Name : Pratham Nagpure
-⁍ 👹 Cursed Spirit : Master of Curses
-⁍ 📚 School Year : 2nd
 ⁍ ??   : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
 
 : Interests :
 ==> Mastering Programming Languages
 ==> Exploring Cybersecurity Concepts
-==> Hunting Bugs for Bounty Rewards
+==> Bug Bounty Hunting
 
 : Goals :
 ==> Becoming a Skilled Software Developer
