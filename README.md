@@ -1,47 +1,48 @@
-### ⁍ Prathamesh Nagpure
-
+```
+### 🗡️ Domain Expansion: Prathamz Profile
 
 ```
 File  Edit  Action   View  Help
 
-┌──(prathamz㉿GitHub)-[~]
+┌──(pratham㉿GitHub)-[~]
 └─$ cat about-me
 
 ⁍ Name : Prathamesh Nagpure
-⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
-⁍ ??   : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
+⁍ 👹 Cursed Spirit : Bug Bounty Hunter
+⁍ 📚 School Year : 2nd
 
-: Learning :
-==> Source Code Analysis (White Box Testing)
-==> Black Box Testing (a lil' bit)
-==> Web3.0 -> BlockChain -> Ethereum -> Smart Contracts -> Solidity
-==> Smart Contract Security
+: Interests :
+==> Manipulating Souls and Curses
+==> Observing Humanity's Struggles
+==> Unleashing Chaos and Destruction
 
-: Certification Currently Preparing for :
-==> OSWE - Offensive Security Web Expert (AWAE - Advanced Web Attacks and Exploitations) 
+: Ambitions :
+==> Reigning Supreme over Jujutsu Sorcerers
+==> Conquering Both Human and Cursed Worlds
 
-: Working on :
-==> Building wargames based on solidity from scratch (Inspired by Ethernaut)
+: Current Activities :
+==> Crafting Deadly Curses to Spread Fear
+==> Manipulating Weak-Willed Individuals for My Benefit
+==> Learning Ancient Techniques to Enhance My Powers
 
 ```
 ```
-Info that nobody cares about (but I do and gonna mention for no reason at all):
-⁍ Interested in People, Jungian Analytical Psychology and Human Brain.
-⁍ Ni dom 
-⁍ 5w4
+Random Tidbits (Because Why Not?):
+⁍ Delights in Watching Human Misery and Suffering
+⁍ Fueled by an Insatiable Hunger for Power and Control
+⁍ Supreme Being with Unmatched Strength and Cunning
 ```
 
 ---
 
-
-- My Leetcode Profile:
+- My Cursed Portfolio:
 ```
-https://leetcode.com/u/tagging_danger/
+https://github.com/tagging-danger/portfolio
 ```
 
 
 
-### ⁍ 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐬:
+### 🗡️ Curse Techniques:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagging-danger&show_icons=true&locale=en&layout=compact" alt="tagging-danger" /></p>
 <br>
@@ -50,16 +51,19 @@ https://leetcode.com/u/tagging_danger/
 
 ---
 
-### ⁍ 𝑾𝒂𝒏𝒏𝒂 𝑯𝒊𝒓𝒆 𝑴𝒆?
+### 🗡️ Want to Challenge Me?
 
 ```
-: Mail Me             - taggingdanger@gmail.com
-: LinkedIn            - www.linkedin.com/in/prathamz/
-: Github              - www.github.com/tagging-danger
+: Send a Curse    - taggingdanger@gmail.com
+: Join My Legion  - www.linkedin.com/in/prathamz/
+: Witness My Power - www.github.com/tagging-danger
 ```
 
 ---
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Profile%20views&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Curse%20Counter&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
+```
+
+Just copy the entire content and save it in a text file with a `.txt` extension.
