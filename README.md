@@ -1,14 +1,14 @@
-```
-### 🗡️ Domain Expansion: Prathamz Profile
+
+### ⁍ Domain Expansion: prathamz Profile
 
 ```
 File  Edit  Action   View  Help
 
-┌──(pratham㉿GitHub)-[~]
+┌──(sukuna㉿GitHub)-[~]
 └─$ cat about-me
 
-⁍ Name : Prathamesh Nagpure
-⁍ 👹 Cursed Spirit : Bug Bounty Hunter
+⁍ Name : Pratham Nagpure
+⁍ 👹 Cursed Spirit : Master of Curses
 ⁍ 📚 School Year : 2nd
 
 : Interests :
@@ -35,9 +35,9 @@ Random Tidbits (Because Why Not?):
 
 ---
 
-- My Cursed Portfolio:
+- My Cursed Po:
 ```
-https://github.com/tagging-danger/portfolio
+https://github.com/tagging-danger/
 ```
 
 
@@ -65,5 +65,3 @@ https://github.com/tagging-danger/portfolio
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Curse%20Counter&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
 ```
-
-Just copy the entire content and save it in a text file with a `.txt` extension.
