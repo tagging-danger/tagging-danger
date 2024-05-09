@@ -51,17 +51,13 @@ https://github.com/tagging-danger/
 
 ---
 
-### 🗡️ Want to Challenge Me?
+### Want to Contact Me?
 
 ```
 : Send a Curse    - taggingdanger@gmail.com
 : Join My Legion  - www.linkedin.com/in/prathamz/
-: Witness My Power - www.github.com/tagging-danger
+: Witness My Power - www.github.com/tagging-danger/
+: Need to talk? - t.me/tagging_damger/
 ```
 
----
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Curse%20Counter&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
-```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Curse%20Stalkers&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
