@@ -36,7 +36,7 @@ Random Tidbits (Because Why Not?):
 
 ---
 
-- My Cursed Po:
+- My Cursed Portfolio:
 ```
 https://github.com/tagging-danger/
 ```
