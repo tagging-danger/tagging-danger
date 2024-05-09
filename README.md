@@ -10,27 +10,30 @@ File  Edit  Action   View  Help
 ⁍ Name : Pratham Nagpure
 ⁍ 👹 Cursed Spirit : Master of Curses
 ⁍ 📚 School Year : 2nd
+⁍ ??   : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
 
 : Interests :
-==> Manipulating Souls and Curses
-==> Observing Humanity's Struggles
-==> Unleashing Chaos and Destruction
+==> Mastering Programming Languages
+==> Exploring Cybersecurity Concepts
+==> Hunting Bugs for Bounty Rewards
 
-: Ambitions :
-==> Reigning Supreme over Jujutsu Sorcerers
-==> Conquering Both Human and Cursed Worlds
+: Goals :
+==> Becoming a Skilled Software Developer
+==> Attaining Expertise in Ethical Hacking
+==> Contributing to Open Source Projects
 
-: Current Activities :
-==> Crafting Deadly Curses to Spread Fear
-==> Manipulating Weak-Willed Individuals for My Benefit
-==> Learning Ancient Techniques to Enhance My Powers
+: Current Focus :
+==> Enhancing Web Development Skills
+==> Learning Security Tools and Techniques to Enhance My Powers.
+==> Participating in Bug Bounty Programs
 
 ```
+
 ```
 Random Tidbits (Because Why Not?):
-⁍ Delights in Watching Human Misery and Suffering
-⁍ Fueled by an Insatiable Hunger for Power and Control
-⁍ Supreme Being with Unmatched Strength and Cunning
+⁍ Enjoys Solving Puzzles and Brain Teasers
+⁍ Driven by Ambition to Excel in the Tech Industry
+⁍ Ofcourse I watch anime in free time!
 ```
 
 ---
@@ -51,7 +54,7 @@ https://github.com/tagging-danger/
 
 ---
 
-### Want to Contact Me?
+### Want to Connect?
 
 ```
 : Send a Curse    - taggingdanger@gmail.com
