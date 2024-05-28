@@ -1,3 +1,4 @@
+![Sukuna GIF](https://github.com/tagging-danger/tagging-danger/blob/main/assets/sukuna.gif)
 
 ### 💀 Domain Expansion: Prathamz Malevolence
 
