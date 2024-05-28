@@ -1,4 +1,6 @@
-![Sukuna GIF](https://github.com/tagging-danger/tagging-danger/blob/main/assets/sukuna.gif)
+<p align="center">
+  <img src="https://github.com/tagging-danger/tagging-danger/blob/main/assets/sukuna.gif" alt="Sukuna GIF">
+</p>
 
 ### 💀 Domain Expansion: Prathamz Malevolence
 
