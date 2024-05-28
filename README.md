@@ -56,7 +56,7 @@ https://github.com/tagging-danger/
 : Send a Curse    - taggingdanger@gmail.com
 : Join My Legion  - www.linkedin.com/in/prathamz/
 : Witness My Power - www.github.com/tagging-danger/
-: Need to talk? - t.me/tagging_damger/
+: Need to talk? - t.me/tagging_danger/
 ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Stalkers&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
