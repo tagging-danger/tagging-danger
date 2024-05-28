@@ -1,5 +1,5 @@
 
-### ⁍ Domain Expansion: prathamz Profile
+### 💀 Domain Expansion: Prathamz Malevolence
 
 ```
 File  Edit  Action  View  Help
@@ -7,43 +7,41 @@ File  Edit  Action  View  Help
 ┌──(sukuna㉿GitHub)-[~]
 └─$ cat about-me
 
-⁍ Name : Pratham Nagpure
-⁍ ??   : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
+💀 Name : Pratham Nagpure
+💀 Status : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
 
-: Interests :
-==> Mastering Programming Languages
-==> Exploring Cybersecurity Concepts
-==> Bug Bounty Hunting
+==>  Interests :
+⁍  Manipulating Programming Languages
+⁍  Unraveling Cybersecurity Nightmares
+⁍  Hunting Bounties with a Malevolent Intent
 
-: Goals :
-==> Becoming a Skilled Software Developer
-==> Attaining Expertise in Ethical Hacking
-==> Contributing to Open Source Projects
+==>  Goals :
+⁍  Ascending to the Realm of Dark Code as a Supreme Developer
+⁍  Mastering the Art of Digital Intrusion and Mayhem
+⁍  Spreading Chaos Through Contributions to Open Source Projects
 
-: Current Focus :
-==> Enhancing Web Development Skills
-==> Learning Security Tools and Techniques to Enhance My Powers.
-==> Participating in Bug Bounty Programs
-
-```
+==>  Current Focus :
+⁍  Corrupting Web Development Standards
+⁍  Harnessing Dark Security Tools and Techniques to Unleash Chaos
+⁍  Dominating Bug Bounty Programs with Malicious Intent
 
 ```
-Random Tidbits (Because Why Not?):
-⁍ Enjoys Solving Puzzles and Brain Teasers
-⁍ Driven by Ambition to Excel in the Tech Industry
-⁍ Ofcourse I watch anime in free time!
+
+```
+==>  Random Curses (Because Why Not?):
+💀 Relishes in Puzzles and Mind Games, Twisting Them to His Advantage
+💀 Fueled by Ambition to Reign Supreme in the Tech Underworld
+💀 Naturally, Indulges in Anime as a Way to Draw Inspiration for His Malevolence
 ```
 
 ---
 
-- My Cursed Portfolio:
+- My Cursefolio:
 ```
 https://github.com/tagging-danger/
 ```
 
-
-
-### 🗡️ Curse Techniques:
+### 🗡️ Dark Techniques:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tagging-danger&show_icons=true&locale=en&layout=compact" alt="tagging-danger" /></p>
 <br>
@@ -52,7 +50,7 @@ https://github.com/tagging-danger/
 
 ---
 
-### Want to Connect?
+### Seeking Minions?
 
 ```
 : Send a Curse    - taggingdanger@gmail.com
@@ -61,4 +59,4 @@ https://github.com/tagging-danger/
 : Need to talk? - t.me/tagging_damger/
 ```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Curse%20Stalkers&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tagging-danger&label=Stalkers&color=0e75b6&style=flat" alt="tagging-danger" /> </p>
