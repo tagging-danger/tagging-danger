@@ -11,7 +11,7 @@ File  Edit  Action  View  Help
 └─$ cat about-me
 
 💀 Name : Pratham Nagpure
-💀 Status : Second Year Computer Engineering Student @ Vishawakarma University, Pune.
+💀 Status : Third Year Computer Engineering Student @ Vishawakarma University, Pune.
 
 ==>  Interests :
 ⁍  Manipulating Programming Languages
