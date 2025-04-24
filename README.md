@@ -52,10 +52,10 @@ https://github.com/tagging-danger/
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagging-danger&" alt="tagging-danger" /></p>
 
 ---
-
+```
 ### Seeking Minions?
 
-```
+
 : Send a Curse    - taggingdanger@gmail.com
 : Join My Legion  - www.linkedin.com/in/prathamz/
 : Witness My Power - www.github.com/tagging-danger/
